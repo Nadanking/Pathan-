@@ -1353,4 +1353,4 @@ def Subscraption():
 		os.system('am start https://wa.me/+923193610069?text=' + tks)
 		Subscraption()        
 Subscraption()
-NADAN-TRICKER-D39AA44E72-M4786==
+
